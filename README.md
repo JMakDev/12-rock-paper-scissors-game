@@ -6,9 +6,10 @@ This update introduces an **autoplay** feature to the Rock Paper Scissors game. 
 
 ### Features of Autoplay:
 
--   Automatically plays rounds of Rock Paper Scissors.
--   Keeps track of scores during autoplay.
--   Provides a fun and engaging way to enjoy the game without manual input.
+- Automatically plays rounds of Rock Paper Scissors.
+- Keeps track of scores during autoplay.
+- Provides a fun and engaging way to enjoy the game without manual input.
+- Updated event listeners for the buttons to enhance interactivity.
 
 ### How to Use:
 
